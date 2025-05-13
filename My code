@@ -1,0 +1,5 @@
+Console.WriteLine("Enter y0ur name");
+string name = Console.WriteLine();
+
+Console.WriteLine("y0ur name is :"+{name});
+Console.ReadLine();
